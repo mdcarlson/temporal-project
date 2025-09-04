@@ -1,5 +1,5 @@
 #source this to setup environment variables for WorldVenture Temporal Cloud
 
-export TEMPORAL_API_KEY='eyJhbGciOiJFUzI1NiIsImtpZCI6Ild2dHdhQSJ9.eyJhY2NvdW50X2lkIjoiZnBtZWIiLCJhdWQiOlsidGVtcG9yYWwuaW8iXSwiZXhwIjoxNzY3MzE4NzY5LCJpc3MiOiJ0ZW1wb3JhbC5pbyIsImp0aSI6IlpmRUNvNlF5NHdKUG1sTEtscU1Sd29Db3JLdjBnaHJGIiwia2V5X2lkIjoiWmZFQ282UXk0d0pQbWxMS2xxTVJ3b0Nvckt2MGdockYiLCJzdWIiOiJkN2FlZjAzOTk3YzY0ZjIzOTVlMmY3MzhhNTEwZmFmZSJ9.ZaJGfA5InuhEK_LMEwtF0T2UYYBDWsF4DODA1MVJk2Gll2st0sEIlRTtJ_9ww7g4NcG7CHYXTTKxn1lXmNkbxA'; \
+export TEMPORAL_API_KEY='<redacted>'; \
 export TEMPORAL_NAMESPACE='quickstart-worldventure.fpmeb'; \
 export TEMPORAL_ADDRESS='us-west-2.aws.api.temporal.io:7233'
